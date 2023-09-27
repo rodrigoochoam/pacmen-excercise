@@ -1,5 +1,5 @@
 # PacMen Exercise
-
+![PacMen Image](images/pacmen.png)
 ## Purpose
 
 Welcome to the PacMen Exercise! This fun and exploratory exercise is designed to put your skills to the test. In this challenge, you'll create multiple PacMen that move about the browser window independently, demonstrating your understanding of array methods and DOM manipulation.
