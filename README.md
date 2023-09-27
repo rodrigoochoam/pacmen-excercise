@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Welcome to the PacMen Exercise! This fun and exploratory exercise is designed to put your skills to the test. Remember how you were able to manipulate the movements of PacMan across the browser window in previous exercises? In this challenge, you'll create multiple PacMen that move about the browser window independently, demonstrating your understanding of array methods and DOM manipulation.
+Welcome to the PacMen Exercise! This fun and exploratory exercise is designed to put your skills to the test. In this challenge, you'll create multiple PacMen that move about the browser window independently, demonstrating your understanding of array methods and DOM manipulation.
 
 ## How to Play
 
@@ -30,9 +30,8 @@ To run the PacMen Exercise on your local machine, follow these steps:
 
     ```bash
     npm install --global http-server
-
-Then start this server with:
-    ```bash
+Then start this server with: 
+    ```bash 
     npx http-server
 
 4. **Open in a Web Browser**: Once the server is running, you'll see a message indicating the server address (usually http://localhost:8080). Open your web browser and go to that address to access the PacMen Exercise.
